@@ -1,10 +1,10 @@
 # 🏁 Tugas Akhir (TA) - Final Project
 
-**Nama Mahasiswa**: [Nama Lengkap]  
-**NRP**: [Nomor Registrasi Pokok]  
-**Judul TA**: [Judul Tugas Akhir]  
-**Dosen Pembimbing**: [Nama Dosen]  
-**Dosen Ko-pembimbing**: [Nama Dosen]
+**Nama Mahasiswa**: Nayya Kamila Putri Yulianto
+**NRP**: 5025211183
+**Judul TA**: Pengenalan Fonik Menggunakan Metode Deep Learning
+**Dosen Pembimbing**: Ratih Nur Esti Anggraini, S.Kom., M.Sc., Ph.D.
+**Dosen Ko-pembimbing**: Dr. Dwi Sunaryono, S.Kom., M.Kom.
 
 ---
 
